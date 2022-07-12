@@ -1,0 +1,16 @@
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.exe
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.deps.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.runtimeconfig.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.runtimeconfig.dev.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\bin\Debug\net5.0\CompararObjetos.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.csproj.AssemblyReference.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.AssemblyInfoInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.AssemblyInfo.cs
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\refint\CompararObjetos.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\CompararObjetos.genruntimeconfig.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\CompararObjetos\CompararObjetos\obj\Debug\net5.0\ref\CompararObjetos.dll

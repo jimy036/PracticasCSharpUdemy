@@ -1,0 +1,16 @@
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\bin\Debug\net5.0\ClasePersona.exe
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\bin\Debug\net5.0\ClasePersona.deps.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\bin\Debug\net5.0\ClasePersona.runtimeconfig.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\bin\Debug\net5.0\ClasePersona.runtimeconfig.dev.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\bin\Debug\net5.0\ClasePersona.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\bin\Debug\net5.0\ClasePersona.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\ClasePersona.csproj.AssemblyReference.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\ClasePersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\ClasePersona.AssemblyInfoInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\ClasePersona.AssemblyInfo.cs
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\ClasePersona.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\ClasePersona.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\refint\ClasePersona.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\ClasePersona.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\ClasePersona.genruntimeconfig.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ClasePersona\ClasePersona\obj\Debug\net5.0\ref\ClasePersona.dll

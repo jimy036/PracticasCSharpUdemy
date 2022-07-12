@@ -1,0 +1,16 @@
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\bin\Debug\net5.0\RetoPromedioCalificaciones.exe
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\bin\Debug\net5.0\RetoPromedioCalificaciones.deps.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\bin\Debug\net5.0\RetoPromedioCalificaciones.runtimeconfig.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\bin\Debug\net5.0\RetoPromedioCalificaciones.runtimeconfig.dev.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\bin\Debug\net5.0\RetoPromedioCalificaciones.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\bin\Debug\net5.0\RetoPromedioCalificaciones.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\RetoPromedioCalificaciones.csproj.AssemblyReference.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\RetoPromedioCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\RetoPromedioCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\RetoPromedioCalificaciones.AssemblyInfo.cs
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\RetoPromedioCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\RetoPromedioCalificaciones.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\refint\RetoPromedioCalificaciones.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\RetoPromedioCalificaciones.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\RetoPromedioCalificaciones.genruntimeconfig.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\RetoPromedioCalificaciones\RetoPromedioCalificaciones\obj\Debug\net5.0\ref\RetoPromedioCalificaciones.dll

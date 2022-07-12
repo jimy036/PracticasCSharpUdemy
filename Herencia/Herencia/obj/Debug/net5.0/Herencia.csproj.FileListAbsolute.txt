@@ -1,0 +1,32 @@
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\bin\Debug\net5.0\Herencia.exe
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\bin\Debug\net5.0\Herencia.deps.json
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.json
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.dev.json
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\bin\Debug\net5.0\Herencia.dll
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\bin\Debug\net5.0\Herencia.pdb
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\Herencia.csproj.AssemblyReference.cache
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfo.cs
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\Herencia.dll
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\refint\Herencia.dll
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\Herencia.pdb
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\Herencia.genruntimeconfig.cache
+C:\Users\Andrés\Desktop\Proyecto 01 UDEMY Blazor\Herencia\Herencia\obj\Debug\net5.0\ref\Herencia.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\bin\Debug\net5.0\Herencia.exe
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\bin\Debug\net5.0\Herencia.deps.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.dev.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\bin\Debug\net5.0\Herencia.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\bin\Debug\net5.0\Herencia.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\Herencia.csproj.AssemblyReference.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfo.cs
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\Herencia.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\refint\Herencia.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\Herencia.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\Herencia.genruntimeconfig.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Herencia\Herencia\obj\Debug\net5.0\ref\Herencia.dll

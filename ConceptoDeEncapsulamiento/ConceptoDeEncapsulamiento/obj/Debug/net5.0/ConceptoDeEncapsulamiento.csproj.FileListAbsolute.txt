@@ -1,0 +1,16 @@
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\bin\Debug\net5.0\ConceptoDeEncapsulamiento.exe
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\bin\Debug\net5.0\ConceptoDeEncapsulamiento.deps.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\bin\Debug\net5.0\ConceptoDeEncapsulamiento.runtimeconfig.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\bin\Debug\net5.0\ConceptoDeEncapsulamiento.runtimeconfig.dev.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\bin\Debug\net5.0\ConceptoDeEncapsulamiento.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\bin\Debug\net5.0\ConceptoDeEncapsulamiento.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\ConceptoDeEncapsulamiento.csproj.AssemblyReference.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\ConceptoDeEncapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\ConceptoDeEncapsulamiento.AssemblyInfoInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\ConceptoDeEncapsulamiento.AssemblyInfo.cs
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\ConceptoDeEncapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\ConceptoDeEncapsulamiento.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\refint\ConceptoDeEncapsulamiento.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\ConceptoDeEncapsulamiento.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\ConceptoDeEncapsulamiento.genruntimeconfig.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\ConceptoDeEncapsulamiento\ConceptoDeEncapsulamiento\obj\Debug\net5.0\ref\ConceptoDeEncapsulamiento.dll

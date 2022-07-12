@@ -1,0 +1,16 @@
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\bin\Debug\net5.0\IteracionesArreglos.exe
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\bin\Debug\net5.0\IteracionesArreglos.deps.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\bin\Debug\net5.0\IteracionesArreglos.runtimeconfig.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\bin\Debug\net5.0\IteracionesArreglos.runtimeconfig.dev.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\bin\Debug\net5.0\IteracionesArreglos.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\bin\Debug\net5.0\IteracionesArreglos.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\IteracionesArreglos.csproj.AssemblyReference.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\IteracionesArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\IteracionesArreglos.AssemblyInfoInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\IteracionesArreglos.AssemblyInfo.cs
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\IteracionesArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\IteracionesArreglos.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\refint\IteracionesArreglos.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\IteracionesArreglos.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\IteracionesArreglos.genruntimeconfig.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\IteracionesArreglos\IteracionesArreglos\obj\Debug\net5.0\ref\IteracionesArreglos.dll

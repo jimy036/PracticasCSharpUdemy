@@ -1,0 +1,16 @@
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.exe
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.deps.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.runtimeconfig.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.runtimeconfig.dev.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\bin\Debug\net5.0\ClaseAbstracta.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.csproj.AssemblyReference.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.AssemblyInfoInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.AssemblyInfo.cs
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\refint\ClaseAbstracta.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\ClaseAbstracta.genruntimeconfig.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseAbstracta\ClaseAbstracta\obj\Debug\net5.0\ref\ClaseAbstracta.dll

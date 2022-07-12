@@ -1,0 +1,16 @@
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\bin\Debug\net5.0\ClaseObjet.exe
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\bin\Debug\net5.0\ClaseObjet.deps.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\bin\Debug\net5.0\ClaseObjet.runtimeconfig.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\bin\Debug\net5.0\ClaseObjet.runtimeconfig.dev.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\bin\Debug\net5.0\ClaseObjet.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\bin\Debug\net5.0\ClaseObjet.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\ClaseObjet.csproj.AssemblyReference.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\ClaseObjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\ClaseObjet.AssemblyInfoInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\ClaseObjet.AssemblyInfo.cs
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\ClaseObjet.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\ClaseObjet.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\refint\ClaseObjet.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\ClaseObjet.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\ClaseObjet.genruntimeconfig.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\ClaseObjet\ClaseObjet\obj\Debug\net5.0\ref\ClaseObjet.dll

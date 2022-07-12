@@ -1,0 +1,16 @@
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\bin\Debug\net5.0\Constructores.exe
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\bin\Debug\net5.0\Constructores.deps.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\bin\Debug\net5.0\Constructores.runtimeconfig.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\bin\Debug\net5.0\Constructores.runtimeconfig.dev.json
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\bin\Debug\net5.0\Constructores.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\bin\Debug\net5.0\Constructores.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\Constructores.csproj.AssemblyReference.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\Constructores.AssemblyInfoInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\Constructores.AssemblyInfo.cs
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\Constructores.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\refint\Constructores.dll
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\Constructores.pdb
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\Constructores.genruntimeconfig.cache
+C:\Users\Andrés\Documents\Prácticas C#\Udemy Fundamentos de C# para Principiantes, Enrique Munguía\Constructores\Constructores\obj\Debug\net5.0\ref\Constructores.dll

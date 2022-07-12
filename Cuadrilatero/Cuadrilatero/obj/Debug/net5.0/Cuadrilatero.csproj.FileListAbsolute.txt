@@ -1,0 +1,16 @@
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\Cuadrilatero.csproj.AssemblyReference.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\Cuadrilatero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\Cuadrilatero.AssemblyInfoInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\Cuadrilatero.AssemblyInfo.cs
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\Cuadrilatero.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\bin\Debug\net5.0\Cuadrilatero.exe
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\bin\Debug\net5.0\Cuadrilatero.deps.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\bin\Debug\net5.0\Cuadrilatero.runtimeconfig.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\bin\Debug\net5.0\Cuadrilatero.runtimeconfig.dev.json
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\bin\Debug\net5.0\Cuadrilatero.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\bin\Debug\net5.0\Cuadrilatero.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\Cuadrilatero.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\refint\Cuadrilatero.dll
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\Cuadrilatero.pdb
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\Cuadrilatero.genruntimeconfig.cache
+C:\Users\Andrés\Desktop\Blazor\BlazorAppLoginYoutube\Cuadrilatero\Cuadrilatero\obj\Debug\net5.0\ref\Cuadrilatero.dll
